@@ -47,7 +47,7 @@ The dataset we will use in this example is SST2, which contains sentences from m
 
 Now that we have our model and inputs ready, let's run our model!
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/danypetkar/Text-Classification-Using-BERT/blob/main/Screenshot%202024-10-16%20093746.png)
 
 ## Evaluation
 After training the model, you can evaluate its performance on the test dataset.
