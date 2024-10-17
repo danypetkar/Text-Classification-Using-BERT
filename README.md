@@ -22,7 +22,7 @@ The data we pass between the two models is a vector of size 768. We can think of
 ## Dataset
 The dataset we will use in this example is SST2, which contains sentences from movie reviews, each labeled as either positive (has the value 1) or negative (has the value 0):
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/danypetkar/Text-Classification-Using-BERT/blob/main/Screenshot%202024-10-16%20092152.png)
 
 #### Preprocessing
 •	Tokenization is performed using the DistilBERT tokenizer.
