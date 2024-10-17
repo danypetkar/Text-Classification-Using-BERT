@@ -40,7 +40,7 @@ The dataset we will use in this example is SST2, which contains sentences from m
     2.	Tokenizing the input using the DistilBERT tokenizer.
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/danypetkar/Text-Classification-Using-BERT/blob/main/Screenshot%202024-10-16%20093418.png)
 
     3.	Padding
     4.	Masking
