@@ -7,7 +7,7 @@ Our goal is to create a model that takes a sentence (just like the ones in our d
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/danypetkar/Text-Classification-Using-BERT/blob/main/Screenshot%202024-10-16%20084311.png)
 
 #### The model is actually made up of two model:
 •	DistilBERT processes the sentence and passes along some information it extracted from it on to the next model. DistilBERT is a smaller version of BERT developed and open sourced by the team at HuggingFace. It’s a lighter and faster version of BERT that roughly matches its performance.
